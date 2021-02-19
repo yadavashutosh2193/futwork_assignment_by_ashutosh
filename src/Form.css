@@ -1,0 +1,11 @@
+.container{
+    position: relative;
+    margin-left: 30%;
+}
+.row{
+    position: relative;
+}
+.col{
+    position: relative;
+    display: inline-block;
+}
